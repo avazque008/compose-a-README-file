@@ -152,6 +152,7 @@ const promptUser = () => {
 
 promptUser()
     .then(userData => {
+        console.log(userData);
         return generateFileTemplate(userData);
     })
     .then(fileTemplate => {
