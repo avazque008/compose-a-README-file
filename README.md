@@ -55,7 +55,8 @@ A command-line application that dynamically generates a professional README.md f
 
 ## Tests
 
- a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
+[Walkthrough Video](https://drive.google.com/file/d/1agy92F0YdqBLz8d3tPngwwTtSzl4ahhl/view) 
+
 
 ## Questions
 
