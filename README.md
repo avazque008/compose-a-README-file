@@ -16,11 +16,11 @@ A command-line application that dynamically generates a professional README.md f
     
 ## Installation
 
- a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
-
+ To use the application you must first clone the repository to your local repository. Once cloned, open the command-line in your local repository and run npm install.
+ 
 ## Usage
 
- a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
+ The application must be used through the command-line to dynamically generate a professional README.md file from a user's input.
 
 ## License
 
