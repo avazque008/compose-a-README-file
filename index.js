@@ -73,8 +73,8 @@ const promptUser = () => {
             type: 'input',
             name: 'contributionGuidelines',
             message: 'Provide your contribution guidelines for your project:',
-            when: ({ CCG }) => {
-                if (!CCG) {
+            when: ({ ccg }) => {
+                if (!ccg) {
                     return true;
                 } else {
                     return false;
