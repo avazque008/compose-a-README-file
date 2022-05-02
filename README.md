@@ -55,7 +55,7 @@ A command-line application that dynamically generates a professional README.md f
 
 ## Tests
 
-[Walkthrough Video](https://drive.google.com/file/d/1agy92F0YdqBLz8d3tPngwwTtSzl4ahhl/view) 
+Download the [Walkthrough Video](https://github.com/avazque008/compose-a-README-file/blob/main/walkthrough-video/Walkthrough%20Video.mp4) 
 
 
 ## Questions
