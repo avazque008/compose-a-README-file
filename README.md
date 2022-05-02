@@ -64,7 +64,5 @@ If you require any further information,  a command-line application that dynamic
 
 ### Contact Information
 
-* Email Address: n/a
-
 * [Github Profile](https://github.com/avazque008")
 
