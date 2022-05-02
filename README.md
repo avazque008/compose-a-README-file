@@ -60,9 +60,10 @@ Download the [Walkthrough Video](https://github.com/avazque008/compose-a-README-
 
 ## Questions
 
-If you require any further information,  a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
+If you require any further information / assistance, please feel free to contact me.
 
 ### Contact Information
 
+* Email: avazque008@outlook.com
 * [Github Profile](https://github.com/avazque008")
 
