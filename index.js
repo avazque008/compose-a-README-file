@@ -79,7 +79,15 @@ const promptUser = () => {
                 } else {
                     return false;
                 }
-            }
+            },
+            validate: contributionGuidelines => {
+                if (contributionGuidelines) {
+                    return true;
+                } else {
+                    console.log('Please provide your contribution guidelines for your project!');
+                    return false;
+                }
+            }            
         },
         {
             type: 'input',
